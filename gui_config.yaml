@@ -1,0 +1,11 @@
+app:
+  name: "Nexus Agent"
+  version: "v4.0"
+  title: "⚡ Nexus Agent v4.0 高级版"
+  width: 1300
+  height: 850
+  min_width: 1100
+  min_height: 700
+
+hot_reload:
+  enabled: true
